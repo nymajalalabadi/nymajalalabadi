@@ -20,7 +20,8 @@ Islamic Azad University of Mahabad
 GPA: 16.16
 
 ## Languages
-English: Fluent                                                                                                                                                                                                                                                          Persian: Fluent                                                                                                                                                                                                                                                          
+English: Fluent                                                                                                                                                                                                                                                          
+ Persian: Fluent                                                                                                                                                                                                                                                          
 Kurdish: Native
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nymajalalabadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nyma-jalalabadi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nyma_jalalabadi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RealNyma)  
