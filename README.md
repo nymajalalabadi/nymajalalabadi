@@ -1,6 +1,5 @@
 ### Hi there 👋, Nima Jalalabadi
 ####  .Net development
-![ .Net development]
 
 I'm Nima Jalalabadi, a passionate and dedicated .Net Developer with a strong focus on .Net development. I have a proven track record in the computer software industry and am committed to continuous learning and staying up-to-date with the latest technologies. I'm actively seeking opportunities to excel in the field of .Net development.
 
