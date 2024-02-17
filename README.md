@@ -8,6 +8,8 @@ I'm Nima Jalalabadi, a passionate and dedicated .Net Developer with a strong foc
 * ⚫ .Net
 * ⚪ JS
 * ⚫ HTML
+* ⚪ Css
+* ⚫ Angular
 * ⚪ Jquery
 * ⚫ Sql Server
 * ⚪ Docker
