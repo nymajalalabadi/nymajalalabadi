@@ -9,7 +9,7 @@ I'm Nima Jalalabadi, a passionate and dedicated .Net Developer with a strong foc
 * ⚪ JS
 * ⚫ HTML
 * ⚪ Css
-* ⚫ Angular
+* ⚫ React
 * ⚪ Blazor
 * ⚫ TypeScript
 * ⚪ Jquery
