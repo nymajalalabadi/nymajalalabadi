@@ -21,7 +21,7 @@ I'm Nima Jalalabadi, a passionate and dedicated .Net Developer with a strong foc
 Bachelor: Software engineering
 Islamic Azad University of Mahabad
 2018 - 2022
-GPA: 16.16
+GPA: 3.7
 
 ## Languages
 English: Fluent                                                                                                                                                                                                                                                          
