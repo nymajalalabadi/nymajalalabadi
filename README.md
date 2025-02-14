@@ -1,13 +1,7 @@
 ### Hi there 👋, Nima Jalalabadi
 ####  .Net development
 
-Nima Jalalabadi
-.NET Developer
-Website
-nymajalalabadi@gmail.com | (+1) 306 270 1773
-Baker Road East, Corman Park, SK, Canada
-LinkedIn | GitHub
-Profile
+
 Highly skilled .NET Developer with over 5 years of experience in designing and
 developing scalable, high-performance applications. Proficient in C# ,
 ASP.NET , React , SQL Server , and RESTful APIs . Expert in both front-end and
