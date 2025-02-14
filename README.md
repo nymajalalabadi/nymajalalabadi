@@ -1,7 +1,18 @@
 ### Hi there 👋, Nima Jalalabadi
 ####  .Net development
 
-I'm Nima Jalalabadi, a passionate and dedicated .Net Developer with a strong focus on .Net development. I have a proven track record in the computer software industry and am committed to continuous learning and staying up-to-date with the latest technologies. I'm actively seeking opportunities to excel in the field of .Net development.
+Nima Jalalabadi
+.NET Developer
+Website
+nymajalalabadi@gmail.com | (+1) 306 270 1773
+Baker Road East, Corman Park, SK, Canada
+LinkedIn | GitHub
+Profile
+Highly skilled .NET Developer with over 5 years of experience in designing and
+developing scalable, high-performance applications. Proficient in C# ,
+ASP.NET , React , SQL Server , and RESTful APIs . Expert in both front-end and
+back-end development, with a strong foundation in software architecture and
+Agile methodologies.
 
 ## Skills And Experience
 * ⚪ C#
