@@ -11,7 +11,7 @@ Comfortable working in Agile/Scrum teams, and passionate about writing clean, ma
 
 ## Skills And Experience
 * ⚪ C#
-* ⚫ .Net
+* ⚫ .NET
 * ⚪ JS
 * ⚫ React
 * ⚪ Blazor
@@ -22,7 +22,7 @@ Comfortable working in Agile/Scrum teams, and passionate about writing clean, ma
 * ⚫ Sql Server
 * ⚪ Docker
 * ⚫ Microservice
-* ⚪ .Net Maui
+* ⚪ .NET MAUI
 
 ## Education
 Bachelor: Software engineering
