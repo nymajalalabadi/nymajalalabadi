@@ -2,11 +2,12 @@
 ####  .Net development
 
 
-Highly skilled .NET Developer with over 5 years of experience in designing and
-developing scalable, high-performance applications. Proficient in C# ,
-ASP.NET , React , SQL Server , and RESTful APIs . Expert in both front-end and
-back-end development, with a strong foundation in software architecture and
-Agile methodologies.
+Highly skilled .NET Developer with over 5 years of experience in designing and developing scalable, high-performance applications. Proficient in both back-end and front-end development using C#, ASP.NET Core, React, and SQL Server.
+
+Experienced in building RESTful APIs, implementing clean architecture, and applying SOLID principles.  
+I also develop cross-platform mobile apps using .NET MAUI for iOS and Android.  
+
+Comfortable working in Agile/Scrum teams, and passionate about writing clean, maintainable code that delivers real business value.
 
 ## Skills And Experience
 * ⚪ C#
@@ -21,6 +22,7 @@ Agile methodologies.
 * ⚫ Sql Server
 * ⚪ Docker
 * ⚫ Microservice
+* ⚪ .Net Maui
 
 ## Education
 Bachelor: Software engineering
