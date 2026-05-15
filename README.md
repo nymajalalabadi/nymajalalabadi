@@ -13,7 +13,7 @@ Comfortable working in Agile/Scrum teams, and passionate about writing clean, ma
 * ⚪ C#
 * ⚫ .NET
 * ⚪ JS
-* ⚫ React(Next)
+* ⚫ React(Next) Js
 * ⚪ Blazor
 * ⚫ Html
 * ⚪ Cass
