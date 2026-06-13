@@ -77,7 +77,7 @@ Highly skilled **.NET Developer** with over **5 years of experience** designing 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nymajalalabadi&theme=onedark&no-frame=true&column=7&margin-w=8" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nymajalalabadi&bg_color=0d1117&color=c9d1d9&line=2563EB&point=FF6600&area=true&hide_border=true" />
 </p>
 
 <br/>
