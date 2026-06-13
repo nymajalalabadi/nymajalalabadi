@@ -68,12 +68,12 @@ Highly skilled **.NET Developer** with over **5 years of experience** designing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nymajalalabadi&show_icons=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=8b949e&bg_color=0d1117" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymajalalabadi&layout=compact&hide_border=true&title_color=2563EB&text_color=8b949e&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nymajalalabadi&show_icons=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymajalalabadi&layout=compact&hide_border=true&title_color=2563EB&text_color=c9d1d9&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=nymajalalabadi&hide_border=true&background=0d1117&stroke=2563EB&ring=2563EB&fire=FF6600&currStreakLabel=2563EB" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=nymajalalabadi&hide_border=true&background=0d1117&stroke=30363d&ring=2563EB&fire=FF6600&currStreakLabel=2563EB&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
 <p align="center">
@@ -96,9 +96,3 @@ Islamic Azad University (IAU), Mahabad · 2018 – 2022 · GPA: 3.7 / 4.0
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nymajalalabadi&style=flat-square&color=2563EB" alt="Profile views" />
 </p>
- 
-
-
-
-
-
