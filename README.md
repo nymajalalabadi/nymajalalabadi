@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://nimajalalabadi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nyma-jalalabadi-347130197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nima-j-347130197/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://doorzytech.ca/"><img src="https://img.shields.io/badge/Doorzy_Tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:nima.jalalabadii@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -18,7 +18,7 @@ const nima = {
   role: "Full Stack .NET Developer",
   founder: "Doorzy Tech — Saskatoon-based web studio",
   experience: "5+ years",
-  location: "Corman Park, SK, Canada 🇨🇦",
+  location: "Saskatoon, SK, Canada 🇨🇦",
   expertise: ["Backend", "Frontend", "Cross-platform Mobile"],
   currentlyOpenTo: "Full-time roles (Remote across Canada / Saskatoon)",
   passion: "Clean architecture & code that delivers real business value"
