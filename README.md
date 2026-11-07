@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nima+Jalalabadi;.NET+Full+Stack+Developer;Founder+of+Doorzy+Tech;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nima+Jalalabadi;.NET+Full+Stack+Developer;Open+to+Full-Time+Roles;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ```typescript
 const nima = {
   role: "Full Stack .NET Developer",
-  founder: "Doorzy Tech — Saskatoon-based web studio",
+  freelance: "Client web apps through Doorzy Tech (Saskatoon)",
   experience: "5+ years",
   location: "Saskatoon, SK, Canada 🇨🇦",
   expertise: ["Backend", "Frontend", "Cross-platform Mobile"],
@@ -25,7 +25,7 @@ const nima = {
 };
 ```
 
-Highly skilled **.NET Developer** with over **5 years of experience** designing and developing scalable, high-performance applications. As the **founder of [Doorzy Tech](https://doorzytech.ca/)**, I deliver full-stack web and mobile platforms end to end — from database design to responsive UI — for clients across real estate, services, and small business.
+Highly skilled **.NET Developer** with over **5 years of experience** designing and developing scalable, high-performance applications. As a **freelance developer through [Doorzy Tech](https://doorzytech.ca/)**, I deliver full-stack web and mobile platforms end to end — from database design to responsive UI — for clients across real estate, services, and small business.
 
 <br/>
 
