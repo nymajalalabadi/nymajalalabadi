@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nima+Jalalabadi;.NET+Full+Stack+Developer;Open+to+Full-Time+Roles;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nima+Jalalabadi;Team+Lead+%26+.NET+Full+Stack+Developer;7%2B+Years+Building+for+the+Web;Open+to+Remote+%26+Hybrid+Roles" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,17 +15,24 @@
 
 ```typescript
 const nima = {
-  role: "Full Stack .NET Developer",
-  freelance: "Client web apps through Doorzy Tech (Saskatoon)",
-  experience: "5+ years",
+  role: "Team Lead & Full Stack .NET Developer",
+  company: "Doorzy Tech, Saskatoon (Oct 2024 – Present)",
+  team: "Lead a 4-person team while writing production code",
+  experience: "7+ years",
   location: "Saskatoon, SK, Canada 🇨🇦",
   expertise: ["Backend", "Frontend", "Cross-platform Mobile"],
-  currentlyOpenTo: "Full-time roles (Remote across Canada / Saskatoon)",
+  currentlyOpenTo: "Remote across Canada · Hybrid · On-site in Saskatoon",
   passion: "Clean architecture & code that delivers real business value"
 };
 ```
 
-Highly skilled **.NET Developer** with over **5 years of experience** designing and developing scalable, high-performance applications. As a **freelance developer through [Doorzy Tech](https://doorzytech.ca/)**, I deliver full-stack web and mobile platforms end to end — from database design to responsive UI — for clients across real estate, services, and small business.
+**Team Lead and Full Stack .NET Developer** with **7+ years of experience** building web applications, REST APIs and SQL-backed systems with C#, ASP.NET Core, SQL Server, React and Azure. At **[Doorzy Tech](https://doorzytech.ca/)** in Saskatoon I lead a 4-person team of developers and a data analyst (planning and assigning work, reviewing code) while staying hands-on in the code on every client project, across real estate, services and small business.
+
+## 🏗️ Recent Work
+
+- **SRES Property Management Portal** (Team Lead & Developer): an ASP.NET portal for Saskatoon Real Estate Services with separate portals for administrators, tenants and maintenance workers. It covers maintenance requests with photos and status history, repair appointments and inspections, tenancy documents, rent and deposit records, and notices.
+- **Client sites at Doorzy Tech** (Team Lead & Developer): [Remax Rentals Saskatoon](https://rentalsaskatoon.ca), [SRES Senior Housing](https://sres.ca), [InvoicingPro](https://invoicingpro.ca), plus Stripe and Stripe Connect integrations and .NET MAUI work.
+- **[Exchango](https://exchango.org)** (personal project): a peer-to-peer barter platform on .NET 10, ASP.NET Core and Azure SQL, deployed to Azure with CI/CD, automated tests and observability.
 
 <br/>
 
@@ -84,7 +91,7 @@ Highly skilled **.NET Developer** with over **5 years of experience** designing 
 
 ## 🎓 Education
 
-**Bachelor of Software Engineering**
+**Bachelor's Degree in Computer Engineering (Software)**
 Islamic Azad University (IAU), Mahabad · 2018 – 2022 · GPA: 3.7 / 4.0
 
 ## 🌍 Languages
