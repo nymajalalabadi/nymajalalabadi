@@ -17,7 +17,7 @@
 const nima = {
   role: "Team Lead & Full Stack .NET Developer",
   company: "Doorzy Tech, Saskatoon (Oct 2024 – Present)",
-  team: "Lead a 4-person team while writing production code",
+  team: "Lead the development team while writing production code",
   experience: "7+ years",
   location: "Saskatoon, SK, Canada 🇨🇦",
   expertise: ["Backend", "Frontend", "Cross-platform Mobile"],
@@ -26,7 +26,7 @@ const nima = {
 };
 ```
 
-**Team Lead and Full Stack .NET Developer** with **7+ years of experience** building web applications, REST APIs and SQL-backed systems with C#, ASP.NET Core, SQL Server, React and Azure. At **[Doorzy Tech](https://doorzytech.ca/)** in Saskatoon I lead a 4-person team of developers and a data analyst (planning and assigning work, reviewing code) while staying hands-on in the code on every client project, across real estate, services and small business.
+**Team Lead and Full Stack .NET Developer** with **7+ years of experience** building web applications, REST APIs and SQL-backed systems with C#, ASP.NET Core, SQL Server, React and Azure. As Team Lead at **[Doorzy Tech](https://doorzytech.ca/)** in Saskatoon, I lead the development team (planning and assigning work, reviewing code) while staying hands-on in the code on every client project, across real estate, services and small business.
 
 ## 🏗️ Recent Work
 
@@ -34,7 +34,7 @@ const nima = {
 - **[SRES Real Estate Website](https://sres.ca)** (Team Lead & Developer): rental, sales and commercial listings, online rental applications and maintenance requests.
 - **[InvoicingPro](https://invoicingpro.ca)** (Front End, Next.js): invoicing SaaS with invoices, estimates, clients, work orders, payment tracking and a revenue dashboard.
 - **More Doorzy client sites** (Team Lead & Developer): [Remax Rentals Saskatoon](https://rentalsaskatoon.ca), plus Stripe and Stripe Connect integrations and .NET MAUI work.
-- **[Exchango](https://exchango.org)** (personal project): a peer-to-peer barter platform on .NET 10, ASP.NET Core and Azure SQL, deployed to Azure with CI/CD, automated tests and observability.
+- **[Exchango](https://exchango.org)** (personal project): a peer-to-peer barter platform on .NET, ASP.NET Core and Azure SQL, deployed to Azure with CI/CD, automated tests and observability.
 
 <br/>
 
