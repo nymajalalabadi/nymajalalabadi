@@ -30,8 +30,10 @@ const nima = {
 
 ## 🏗️ Recent Work
 
-- **SRES Property Management Portal** (Team Lead & Developer): an ASP.NET portal for Saskatoon Real Estate Services with separate portals for administrators, tenants and maintenance workers. It covers maintenance requests with photos and status history, repair appointments and inspections, tenancy documents, rent and deposit records, and notices.
-- **Client sites at Doorzy Tech** (Team Lead & Developer): [Remax Rentals Saskatoon](https://rentalsaskatoon.ca), [SRES Senior Housing](https://sres.ca), [InvoicingPro](https://invoicingpro.ca), plus Stripe and Stripe Connect integrations and .NET MAUI work.
+- **[SRES Property Management Platform](https://doorzy-004-site5.anytempurl.com/)** (Team Lead & Developer, Doorzy Tech): a property and condo management system for SRES Real Estate, a Saskatoon firm managing 500+ properties. It has separate portals for administrators, tenants and maintenance workers and 50+ admin modules: properties, leases, move-in/move-out inspections, payments, condo fees and rental pools, maintenance, insurance, expenses and financial reports, plus permission-based roles and an audit trail.
+- **[SRES Real Estate Website](https://sres.ca)** (Team Lead & Developer): rental, sales and commercial listings, online rental applications and maintenance requests.
+- **[InvoicingPro](https://invoicingpro.ca)** (Front End, Next.js): invoicing SaaS with invoices, estimates, clients, work orders, payment tracking and a revenue dashboard.
+- **More Doorzy client sites** (Team Lead & Developer): [Remax Rentals Saskatoon](https://rentalsaskatoon.ca), plus Stripe and Stripe Connect integrations and .NET MAUI work.
 - **[Exchango](https://exchango.org)** (personal project): a peer-to-peer barter platform on .NET 10, ASP.NET Core and Azure SQL, deployed to Azure with CI/CD, automated tests and observability.
 
 <br/>
