@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nima+Jalalabadi;Team+Lead+%26+.NET+Full+Stack+Developer;7%2B+Years+Building+for+the+Web;Open+to+Remote+%26+Hybrid+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nima+Jalalabadi;Full+Stack+.NET+Developer;7%2B+Years+Building+for+the+Web;Open+to+Remote+%26+Hybrid+Roles" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,26 +15,24 @@
 
 ```typescript
 const nima = {
-  role: "Team Lead & Full Stack .NET Developer",
-  company: "Doorzy Tech, Saskatoon (Oct 2024 – Present)",
-  team: "Lead the development team while writing production code",
+  role: "Full Stack .NET Developer",
+  currently: "Team Lead at Doorzy Tech, Saskatoon",
   experience: "7+ years",
   location: "Saskatoon, SK, Canada 🇨🇦",
-  expertise: ["Backend", "Frontend", "Cross-platform Mobile"],
-  currentlyOpenTo: "Remote across Canada · Hybrid · On-site in Saskatoon",
-  passion: "Clean architecture & code that delivers real business value"
+  stack: ["C#", ".NET", "ASP.NET Core", "SQL Server", "React", "Next.js", "Azure"],
+  openTo: "Remote across Canada · Hybrid · On-site in Saskatoon",
 };
 ```
 
-**Team Lead and Full Stack .NET Developer** with **7+ years of experience** building web applications, REST APIs and SQL-backed systems with C#, ASP.NET Core, SQL Server, React and Azure. As Team Lead at **[Doorzy Tech](https://doorzytech.ca/)** in Saskatoon, I lead the development team (planning and assigning work, reviewing code) while staying hands-on in the code on every client project, across real estate, services and small business.
+**Full Stack .NET Developer** with **7+ years of experience** designing, building and supporting secure web applications with C#, ASP.NET Core, Entity Framework Core and SQL Server, and responsive front ends in React, Next.js and TypeScript. Skilled in REST API design, relational data modelling, role-based security, and Azure cloud delivery with CI/CD, automated testing and monitoring.
 
-## 🏗️ Recent Work
+## 🏗️ Selected Projects
 
-- **[SRES Property Management Platform](https://doorzy-004-site5.anytempurl.com/)** (Team Lead & Developer, Doorzy Tech): a property and condo management system for SRES Real Estate, a Saskatoon firm managing 500+ properties. It has separate portals for administrators, tenants and maintenance workers and 50+ admin modules: properties, leases, move-in/move-out inspections, payments, condo fees and rental pools, maintenance, insurance, expenses and financial reports, plus permission-based roles and an audit trail.
-- **[SRES Real Estate Website](https://sres.ca)** (Team Lead & Developer): rental, sales and commercial listings, online rental applications and maintenance requests.
-- **[InvoicingPro](https://invoicingpro.ca)** (Front End, Next.js): invoicing SaaS with invoices, estimates, clients, work orders, payment tracking and a revenue dashboard.
-- **More Doorzy client sites** (Team Lead & Developer): [Remax Rentals Saskatoon](https://rentalsaskatoon.ca), plus Stripe and Stripe Connect integrations and .NET MAUI work.
-- **[Exchango](https://exchango.org)** (personal project): a peer-to-peer barter platform on .NET, ASP.NET Core and Azure SQL, deployed to Azure with CI/CD, automated tests and observability.
+- **[Exchango](https://exchango.org)** (personal project): peer-to-peer barter marketplace on .NET, ASP.NET Core and Azure SQL, deployed to Azure with CI/CD, automated tests and observability.
+- **[SRES Property Management Platform](https://doorzy-004-site5.anytempurl.com/)** (Doorzy Tech): property and condo management system with role-based portals for administrators, tenants and maintenance workers.
+- **[SRES Real Estate Website](https://sres.ca)** (Doorzy Tech): rental, sales and commercial listings, online rental applications and maintenance requests.
+- **[InvoicingPro](https://invoicingpro.ca)** (Front-End Developer, Doorzy Tech): invoicing SaaS built with Next.js, React and TypeScript.
+- **Client websites at Doorzy Tech**: [Remax Rentals Saskatoon](https://rentalsaskatoon.ca), [Benny's Yardworks](https://bywsask.ca), [Bairos Janitorial](https://bairosjanitorial.com), [Merv's Fun Fishing](https://mervsfunfishing.com), [PrimeArc Construction](https://arcconst.com) and [Chess Club Marketing](https://chessclub.marketing).
 
 <br/>
 
